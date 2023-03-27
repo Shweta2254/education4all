@@ -1,10 +1,5 @@
-# Hack36 Template Readme
-
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
-
-
-  ## Team Name: Don't_know<Br>
-  ## Theme: Sustainable Development<Br>
+# Theme: Sustainable Development<Br>
+## Topic: Education4@ll 
 
 # Introduction:
  Education empowers learners of all ages with the knowledge, skills, values and attitudes to address the interconnected global challenges we are facing, including climate change, environmental degradation, loss of biodiversity, poverty and inequality.
@@ -26,7 +21,4 @@
   
 1.[Kirti Gupta](https://github.com/KirtiGupta3101)\
 2.[Shweta Srivastava](https://github.com/Shweta2254)
-# Made at:<Br>  
-  
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
 
